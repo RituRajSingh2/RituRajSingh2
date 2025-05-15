@@ -1,10 +1,10 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img src="https://i.pinimg.com/736x/f8/99/f7/f899f7a1ea7169324d7a884a504ee9d2.jpg" width="1400 height="800" alt="riturajsingh2 gif image" /> </p>
+
+<p><img align="right" width="400 alt="riturajsingh2 gif image"  src="https://i.pinimg.com/736x/f8/99/f7/f899f7a1ea7169324d7a884a504ee9d2.jpg"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajsingh2&label=Profile%20views&color=0e75b6&style=flat" alt="riturajsingh2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riturajsingh2" alt="riturajsingh2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@rituraj34013" target="blank"><img src="https://img.shields.io/twitter/follow/@rituraj34013?logo=twitter&style=for-the-badge" alt="@rituraj34013" /></a> </p>
 
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajsingh2&show_icons=true&locale=en" alt="riturajsingh2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajsingh2&" alt="riturajsingh2" /></p>
-
